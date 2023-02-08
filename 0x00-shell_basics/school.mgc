@@ -1,4 +1,4 @@
-#!/bin/bash
-O  string SCHOOL School data
-!#mime School
+
+O string SCHOOL School data
+!:mime School
 
